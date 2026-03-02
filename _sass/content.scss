@@ -219,7 +219,7 @@ h2.block-title {
   margin: 20px;
   padding: 20px;
   font-size: 14px;
-  color: $terminal-accent;
+  color: #333333;
   font-family: $monospace;
   text-align: center;
   background-color: $terminal-bg;
@@ -228,7 +228,7 @@ h2.block-title {
 }
 
 .footer > a {
-  color: $terminal-text;
+  color: #1a1a1a;
   text-decoration: none;
   
   &:hover {
