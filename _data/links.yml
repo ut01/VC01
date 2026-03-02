@@ -8,8 +8,11 @@
       - { url: "https://www.ycombinator.com/", title: "Y Combinator", icon: "fas fa-rocket", keywords: "yc ycombinator accelerator startup", meta: "Global startup accelerator" }
       - { url: "https://a16z.com/", title: "a16z", icon: "fas fa-landmark", keywords: "andreessen horowitz web3 ai", meta: "Silicon Valley top VC, Web3/AI leader" }
       - { url: "https://www.sequoiacap.com/", title: "Sequoia", icon: "fas fa-mountain", keywords: "sequoia venture capital", meta: "Global top-tier venture capital" }
+      - { url: "https://foundersfund.com/", title: "Founders Fund", icon: "fas fa-hand-holding-dollar", keywords: "founders fund thiel frontier tech", meta: "Thesis: Frontier Tech" }
+      - { url: "https://thielfellowship.org/", title: "Thiel Fellowship", icon: "fas fa-user-graduate", keywords: "thiel fellowship 20 under 20", meta: "Network: 20 Under 20" }
+      - { url: "https://www.kickstarter.com/", title: "Kickstarter", icon: "fas fa-lightbulb", keywords: "kickstarter crowdfunding hardware", meta: "Crowdfunding platform" }
       - { url: "https://www.usv.com/", title: "USV", icon: "fas fa-building", keywords: "union square ventures network effects", meta: "NY VC focusing on network effects" }
-      - { url: "https://www.unusual.vc/", title: "Unusual Ventures", icon: "fas fa-lightbulb", keywords: "unusual ventures b2b early stage", meta: "Early-stage B2B investment focus" }
+      - { url: "https://www.unusual.vc/", title: "Unusual Ventures", icon: "fas fa-chart-line", keywords: "unusual ventures b2b early stage", meta: "Early-stage B2B investment focus" }
       - { url: "https://boldstart.vc/", title: "Boldstart", icon: "fas fa-bolt", keywords: "boldstart enterprise software", meta: "Enterprise software & day-one investing" }
       - { url: "https://greylock.com/", title: "Greylock", icon: "fas fa-chess-knight", keywords: "greylock venture capital", meta: "Leading early-stage venture capital" }
 

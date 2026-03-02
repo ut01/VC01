@@ -217,10 +217,14 @@ h2.block-title {
 }
 .footer {
   margin: 20px;
+  padding: 20px;
   font-size: 14px;
   color: $terminal-accent;
   font-family: $monospace;
   text-align: center;
+  background-color: $terminal-bg;
+  border: 2px solid $terminal-border;
+  border-radius: 0;
 }
 
 .footer > a {
