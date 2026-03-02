@@ -132,6 +132,15 @@ layout: none
             </div>
         </div>
         <div class="u_main-wrapper">
+            <!-- Dashboard Header -->
+            <div class="dashboard-header">
+                <div class="header-title">GLOBAL VENTURE & TECHNOLOGY MONITOR</div>
+                <div class="header-meta">
+                    <span class="timestamp">[2025-01-15 14:30]</span>
+                    <span class="version">v0.0.1 ALPHA</span>
+                </div>
+            </div>
+            
             <div class="main clearfix">
                 {% assign columns = site.data.links %}
                 <div class="main-col">
@@ -140,7 +149,7 @@ layout: none
                         <h2 class="block-title">{{ section.section }}</h2>
                         <div class="block-grid-wrapper clearfix">
                             {% for link in section.links %}
-                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
                             {% endfor %}
                         </div>
                     </div>
@@ -153,7 +162,7 @@ layout: none
                         <h2 class="block-title">{{ section.section }}</h2>
                         <div class="block-grid-wrapper clearfix">
                             {% for link in section.links %}
-                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
                             {% endfor %}
                         </div>
                     </div>
@@ -166,7 +175,7 @@ layout: none
                         <h2 class="block-title">{{ section.section }}</h2>
                         <div class="block-grid-wrapper clearfix">
                             {% for link in section.links %}
-                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
                             {% endfor %}
                         </div>
                     </div>

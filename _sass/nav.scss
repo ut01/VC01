@@ -2,21 +2,26 @@
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: white;
-  border-bottom: 1px #ccc solid;
+  background-color: $terminal-bg;
+  border-bottom: 2px solid $terminal-border;
   z-index: 10;
 }
+
 .u_nav {
   max-width: 1400px;
   margin: auto;
 }
+
 .u_nav-left {
   margin: 18px;
   font-size: 16px;
+  font-family: $monospace;
 }
+
 .u_nav-right {
   margin: 18px;
   font-size: 14px;
+  font-family: $monospace;
   position: relative;
   top: 3px;
   float: right;
@@ -24,13 +29,20 @@
     margin-right: 20px;
   }
 }
+
 .u_nav-left,
 .u_nav-input {
   float: left;
 }
+
 .u_nav-link {
-  color: #777;
+  color: $terminal-accent;
+  
+  &:hover {
+    color: $terminal-text;
+  }
 }
+
 .u_nav-input,
 .u_nav-btn {
   float: left;
@@ -39,14 +51,21 @@
   top: 10px;
   padding: 5px;
   font-size: 16px;
-  color: #777;
-  border: 1px lightgray solid;
+  font-family: $monospace;
+  color: $terminal-text;
+  background-color: $terminal-bg;
+  border: 1px solid $terminal-border;
 }
+
 .u_nav-input {
   display: block;
   width: 200px;
   border-right: 0;
-  border-radius: 3px 0 0 3px;
+  border-radius: 0;
+  
+  &::placeholder {
+    color: $terminal-accent;
+  }
 }
 
 /* PC 端搜索框组 */
@@ -58,7 +77,8 @@
   cursor: pointer;
   line-height: 24px;
   vertical-align: middle;
-  border-radius: 0 3px 3px 0;
+  border-radius: 0;
+  color: $terminal-accent;
 
   > ul {
     border: 0;
@@ -69,37 +89,47 @@
 
   &:hover {
     border-bottom: 0;
+    color: $terminal-text;
     > ul {
-      border: 1px lightgray solid;
+      border: 1px solid $terminal-border;
       border-top: 0;
-      border-radius: 0 0 3px 3px;
+      border-radius: 0;
       > li {
         display: block;
       }
     }
   }
 }
+
 .u_nav-ul {
   position: relative;
   top: 7px;
   left: -6px;
   width: 80px;
   display: block;
-  background-color: white;
+  background-color: $terminal-bg;
   z-index: 5;
 }
+
 .u_nav-li {
   font-size: 14px;
+  font-family: $monospace;
   display: block;
   height: 35px;
   line-height: 30px;
   vertical-align: middle;
+  color: $terminal-accent;
+  
+  &:hover {
+    color: $terminal-text;
+  }
 }
 
 /* 移动端搜索框组 */
 .um_nav-input-group {
   display: none;
 }
+
 @media (max-width: 1000px) {
   .u_nav-right,
   .u_nav-input-group {
@@ -114,15 +144,21 @@
     height: 30px;
     margin-bottom: 10px;
     float: left;
-    color: #777;
+    color: $terminal-text;
+    background-color: $terminal-bg;
     padding: 5px;
-    border: 1px lightgray solid;
+    border: 1px solid $terminal-border;
+    font-family: $monospace;
   }
   .um_nav-input {
     margin-left: 15px;
     width: 130px;
     font-size: 12px;
-    border-radius: 3px 0 0 3px;
+    border-radius: 0;
+    
+    &::placeholder {
+      color: $terminal-accent;
+    }
   }
   .um_nav-btn {
     font-size: 12px;
@@ -133,8 +169,13 @@
     vertical-align: middle;
     border-left: 0;
     border-radius: 0;
+    color: $terminal-accent;
+    
+    &:hover {
+      color: $terminal-text;
+    }
   }
   .um_nav-btn:last-child {
-    border-radius: 0 3px 3px 0;
+    border-radius: 0;
   }
 }

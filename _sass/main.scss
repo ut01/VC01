@@ -9,11 +9,13 @@
     top: 100%;
     left: 0;
     right: 0;
-    background: #333;
-    color: white;
+    background: $terminal-bg;
+    color: $terminal-text;
     padding: 10px;
-    border-radius: 5px;
+    border: 1px solid $terminal-border;
+    border-radius: 0;
     font-size: 14px;
+    font-family: $monospace;
     text-align: center;
     z-index: 1000;
     margin-top: 5px;

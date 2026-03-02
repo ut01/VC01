@@ -4,5 +4,8 @@
     <div class="grid-icon">
       <i class="{{ include.icon }}" aria-label="{{ include.title }} icon" role="img" title="{{ include.title }}"></i>
     </div>
+    {% if include.meta %}
+    <div class="grid-meta">{{ include.meta }}</div>
+    {% endif %}
   </a>
 </div>

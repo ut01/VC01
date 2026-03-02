@@ -1,6 +1,10 @@
 html {
-  color: #777;
-  background-color: #f1f1f1;
+  color: $terminal-text;
+  background-color: $terminal-bg;
+}
+
+body {
+  background-color: $terminal-bg;
 }
 
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, form, input, textarea, th, td {
