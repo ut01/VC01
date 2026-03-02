@@ -1,6 +1,40 @@
 # ut01.github.io robots.txt
+# Global Venture & Technology Monitor - VC Dashboard
+
+# Allow all crawlers including AI bots
 User-agent: *
 Allow: /
+Crawl-delay: 1
+
+# Specific AI Bot Agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Sitemap
 Sitemap: https://ut01.github.io/sitemap.xml
 
 # Disallow specific patterns if needed in the future
