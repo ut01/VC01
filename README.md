@@ -1,118 +1,100 @@
-# ut01 - UT Austin Student Navigation Hub!
+# VC01 - Global Venture & Technology Monitor
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
-[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io)](https://ut01.github.io/) [![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io) [![GitHub forks](https://img.shields.io/github/forks/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
+[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io)](https://ut01.github.io/) 
+[![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) 
+[![GitHub forks](https://img.shields.io/github/forks/ut01/VC01)](https://github.com/ut01/VC01/fork) 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Site Traffic Analytics: [![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
-
-> **One-stop navigation for UT Austin students** 🤘  
-> Quick access to essential university links without deep navigation
+> **Terminal-style dashboard for venture capital, technology trends, and startup ecosystems** 🚀  
+> Curated links to VC funds, investors, AI research, tech blogs, and individual thought leaders
 
 # **Live Site**: [ut01.github.io](https://ut01.github.io/)
 
-Click to watch the demo:
-
-[![Watch the demo](https://img.youtube.com/vi/G4b308e8a50/0.jpg)](https://youtu.be/G4b308e8a50)
-
 ---
 
-## feature/news
-Aug 20: New in ut01: Registration Guide 🎉
-No more searching around for scattered links—everything you need is now in one place!
-👉 https://ut01.github.io/guides/registration-guide.html
+## What is VC01?
 
-Aug 18: add "UT AI" section!
+**VC01** is a terminal-style monitoring dashboard that consolidates essential venture capital and technology resources in one place. Designed with a retro terminal aesthetic (green/amber on dark background, ASCII borders, monospace fonts), it provides quick access to:
 
----
-
-## What is ut01?
-
-**ut01** is a student-built navigation homepage that consolidates all essential UT Austin links in one place. Created by [Koutian Wu](https://github.com/ktwu01/), a UT Austin PhD student (Class of '24) to solve the frustration of navigating deep university website hierarchies and dealing with frequent login timeouts.
-
-![ut01 Screenshot](./assets/Screenshot-Multiple-Device-ut01.png)
-![ut01 Screenshot](./assets/Screenshot-Mobile-Device-ut01.png)
-
----
-## Disclaimer
-
-**Important Notice**: The information and links provided on this site are for convenience only and are not necessarily official or endorsed by The University of Texas at Austin. Even official university information may contain errors or become outdated. Users are responsible for verifying the accuracy and current status of all information before making important decisions. Always refer to official university sources for the most current and accurate information.
-
-## Privacy & Data Collection
-
-ut01.github.io prioritizes user privacy while providing analytics insights for site improvement.
-
-**What We Track:**
-
-- Anonymous website analytics (Google Analytics)
-- Visitor statistics (Clustrmaps)
-- No personal accounts or credentials
-
-**What We Don't Collect:**
-
-- Personal identification information
-- Login credentials
-- Educational records
-- Email addresses or contact information
-
-**Compliance:**
-
-- No FERPA-regulated educational records processed
-
-[![Reddit Comment](assets/image.png)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/comment/n0ri3k4/)
-
-👉 [View Reddit comments](https://www.reddit.com/r/UTAustin/comments/1loxvxu/comment/n0ri3k4/) on r/UTAustin
-
-
-## Why ut01 Exists
-
-As a UT student, I was constantly frustrated by:
-
-- **Deep Link Navigation**: Simple tasks like checking dining balance required multiple clicks through complex menus
-- **Frequent Logouts**: UT links automatically sign out, making bookmarks redirect to "Sign in with your EID" pages
-- **Scattered Resources**: Essential student services spread across dozens of different portals
-
-So I built this centralized hub that organizes everything students actually need.
+- **VC Funds**: Y Combinator, a16z, Sequoia, USV, Unusual Ventures, Boldstart, Greylock
+- **Investors & Thought Leaders**: Sam Altman, Benedict Evans, Bill Gurley, Tomasz Tunguz, Jason Lemkin, and more
+- **AI Research & Tech Blogs**: Google AI, Hugging Face, NVIDIA AI, DeepMind, LangChain, MS Research, BAIR, Vercel, Stripe, Discord, Cloudflare, Databricks, Spotify, Replicate
+- **Individual Blogs**: 100+ curated tech bloggers and writers
 
 ---
 
 ## Key Features
 
-### 🎯 **Essential Categories**
-- **Key Portals**: MyUT, UT Direct, Canvas, Emergency Info
-- **Academics**: Grades, Course Schedule, Libraries, Registration
-- **Financial**: Tuition, Financial Aid, Waivers, Tax Forms
-- **Campus Life**: Housing, Dining, Transportation, Recreation
-- **Technology**: EID Help, VPN, Microsoft 365, TACC
-- **International Services**: ISSS, Visa, Employment Authorization
+### 🎯 **Comprehensive Coverage**
+- **VC Funds**: Leading venture capital firms and accelerators
+- **Investors**: Prominent angel investors and thought leaders
+- **AI Research**: Cutting-edge AI research labs and frameworks
+- **Tech Blogs**: Engineering blogs from top tech companies
+- **Individual Writers**: Curated list of influential tech bloggers
 
-### 🚀 **Student-Friendly Design**
-- **Quick Access**: No deep navigation required
-- **Bookmark-Ready**: Set as your browser homepage
-- **Always Updated**: Student-maintained for relevance
+### 🖥️ **Terminal Aesthetic**
+- **Retro Design**: Green/amber text on dark background
+- **ASCII Borders**: Terminal-style visual separators
+- **Monospace Fonts**: Monaco, Roboto Mono, Consolas
+- **Minimalist UI**: No rounded corners, clean grid layout
+
+### 🚀 **User-Friendly**
+- **Quick Access**: All links organized by category
+- **Search Function**: Find specific sources quickly
 - **Mobile Responsive**: Works on all devices
+- **Bookmark-Ready**: Set as your browser homepage
+
+---
+
+## Dashboard Sections
+
+### Capital & Acceleration
+Track major VC firms and startup accelerators:
+- Y Combinator - Global startup accelerator
+- a16z - Silicon Valley top VC, Web3/AI leader
+- Sequoia - Global top-tier venture capital
+- And more...
+
+### Investors & Thought Leaders
+Follow prominent investors and analysts:
+- Sam Altman - OpenAI CEO, ex-YC President
+- Benedict Evans - Technology analyst & trend forecaster
+- Bill Gurley - Benchmark partner, legendary tech investor
+- And more...
+
+### AI Research & Tech Blogs
+Stay updated with cutting-edge research and engineering:
+- Google AI, DeepMind, NVIDIA AI, Hugging Face
+- Vercel, Stripe, Discord, Cloudflare, Databricks
+- And more...
+
+### Individual Blogs & Writers
+Read insights from 100+ influential tech writers including:
+- Simon Willison, Paul Graham, Dan Abramov
+- Gwern, Mitchell Hashimoto, Armin Ronacher
+- And many more...
 
 ---
 
 ## How to Use
 
 1. **Visit** [ut01.github.io](https://ut01.github.io/)
-2. **Bookmark** frequently used links
-3. **Set as Homepage** for instant access
-4. **Search** for specific services using the search function
+2. **Browse** by category or use the search function
+3. **Bookmark** frequently visited sources
+4. **Set as Homepage** for instant access to VC/tech resources
 
 ---
 
 ## Contributing
 
-Want to add a link or fix something? Contributions are welcome!
+Want to add a source or suggest improvements? Contributions are welcome!
 
 ### Quick Steps
 1. **Fork** this repository
-2. **Edit** `index.html` following the template:
-   ```html
-   <!-- Add new link -->
-   {% include block-grid.html url="https://example.utexas.edu" title="Service Name" icon="fad fa-icon-name" %}
+2. **Edit** `_data/links.yml` following the template:
+   ```yaml
+   - { url: "https://example.com/", title: "Source Name", icon: "fas fa-icon-name", keywords: "keywords here", meta: "Description here" }
    ```
 3. **Submit** a pull request
 
@@ -124,26 +106,27 @@ Search for icons at [FontAwesome](https://fontawesome.com/search) and update the
 ## Technical Details
 
 - **Framework**: Jekyll with custom templates
+- **Styling**: SCSS with terminal aesthetic variables
 - **Hosting**: GitHub Pages
-- **License**: [CC BY-SA 4.0](LICENSE). This is a fork of [SmartHypercube/ustclife](https://github.com/SmartHypercube/ustclife).
-- **Maintenance**: Student-driven updates
+- **License**: [CC BY-SA 4.0](LICENSE)
+- **Maintenance**: Community-driven updates
 
 ---
 
 ## Contact & Support
 
-- **Issues**: [Report problems or suggest additions](https://github.com/ut01/ut01.github.io/issues)
-- **Developer**: [Contact maintainer Koutian Wu](https://github.com/ktwu01/)
-- **Community**: Built by UT students, for UT students
+- **Issues**: [Report problems or suggest additions](https://github.com/ut01/VC01/issues)
+- **Community**: Built for the VC and tech community
 
 ---
 
 <div align="center">
 
-**🤘 Hook 'em Horns! Made with ❤️ by UT Austin PhD students**
+**🚀 Made for the venture capital and technology community**
 
-[![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io) [![Visit Site](https://img.shields.io/badge/Visit-ut01.github.io-orange)](https://ut01.github.io/)
+[![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) 
+[![Visit Site](https://img.shields.io/badge/Visit-ut01.github.io-orange)](https://ut01.github.io/)
 
-*Set ut01.github.io as your homepage and never hunt for UT links again!*
+*Set VC01 as your homepage and stay connected to the VC/tech ecosystem!*
 
 </div>
