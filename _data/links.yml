@@ -15,6 +15,9 @@
       - { url: "https://www.unusual.vc/", title: "Unusual Ventures", icon: "fas fa-chart-line", keywords: "unusual ventures b2b early stage", meta: "Early-stage B2B investment focus" }
       - { url: "https://boldstart.vc/", title: "Boldstart", icon: "fas fa-bolt", keywords: "boldstart enterprise software", meta: "Enterprise software & day-one investing" }
       - { url: "https://greylock.com/", title: "Greylock", icon: "fas fa-chess-knight", keywords: "greylock venture capital", meta: "Leading early-stage venture capital" }
+      - { url: "https://www.zhenfund.com/", title: "真格基金 (Zhenfund)", icon: "fas fa-coins", keywords: "zhenfund china vc angel", meta: "Leading Chinese angel investment fund" }
+      - { url: "https://www.zfellows.com/", title: "ZFellows", icon: "fas fa-user-friends", keywords: "zfellows zhenfund fellowship", meta: "Zhenfund fellowship program" }
+      - { url: "https://www.hf0.com/", title: "HF0", icon: "fas fa-rocket", keywords: "hf0 accelerator startup", meta: "Early-stage startup accelerator" }
 
 -
   - section: "INVESTORS & THOUGHT LEADERS"
@@ -43,6 +46,12 @@
       - { url: "https://bair.berkeley.edu/", title: "BAIR", icon: "fas fa-graduation-cap", keywords: "berkeley ai research lab", meta: "Berkeley AI Research Lab" }
       - { url: "https://engineering.atspotify.com/", title: "Spotify", icon: "fab fa-spotify", keywords: "spotify engineering music streaming", meta: "Music streaming engineering at scale" }
       - { url: "https://replicate.com/blog", title: "Replicate", icon: "fas fa-copy", keywords: "replicate ai deployment cloud", meta: "Cloud-based AI model deployment" }
+      - { url: "https://www.nvidia.com/", title: "NVIDIA", icon: "fas fa-microchip", keywords: "nvidia gpu h100 b200", meta: "[NVDA] Focus: H100/B200 Trend: +2.4%" }
+      - { url: "https://www.amd.com/", title: "AMD", icon: "fas fa-microchip", keywords: "amd gpu mi300", meta: "[AMD] Focus: MI300 Series Trend: +1.1%" }
+      - { url: "https://www.microsoft.com/", title: "Microsoft", icon: "fab fa-microsoft", keywords: "microsoft azure openai", meta: "[MSFT] Focus: Azure/OpenAI Trend: -0.3%" }
+      - { url: "https://www.google.com/", title: "Google", icon: "fab fa-google", keywords: "google tpu vertex ai", meta: "[GOOG] Focus: TPU / Vertex" }
+      - { url: "#", title: "Meritocracy", icon: "fas fa-trophy", keywords: "meritocracy talent", meta: "[M] Focus: Talent" }
+      - { url: "#", title: "OpenResearch", icon: "fas fa-flask", keywords: "openresearch ubi research", meta: "[O] Focus: UBI Research" }
 
 -
   - section: "INDIVIDUAL BLOGS & WRITERS"
@@ -119,6 +128,8 @@
       - { url: "https://matduggan.com/", title: "Mat Duggan", icon: "fas fa-rss", keywords: "mat duggan tech", meta: "Tech commentary" }
       - { url: "https://refactoringenglish.com/", title: "Refactoring English", icon: "fas fa-language", keywords: "refactoring english writing", meta: "Technical writing" }
       - { url: "https://worksonmymachine.substack.com/", title: "Works on My Machine", icon: "fas fa-laptop", keywords: "works on my machine devops", meta: "DevOps stories" }
+      - { url: "https://substack.com/", title: "Substack", icon: "fas fa-newspaper", keywords: "substack newsletter publishing", meta: "Newsletter publishing platform" }
+      - { url: "https://mp.weixin.qq.com/", title: "公众号 (WeChat Official Accounts)", icon: "fab fa-weixin", keywords: "wechat weixin gongzhonghao", meta: "WeChat official accounts platform" }
       - { url: "https://philiplaine.com/", title: "Philip Laine", icon: "fas fa-rss", keywords: "philip laine", meta: "Tech insights" }
       - { url: "https://steveblank.com/", title: "Steve Blank", icon: "fas fa-rocket", keywords: "steve blank startups lean", meta: "Lean startup methodology" }
       - { url: "https://bernsteinbear.com/", title: "Max Bernstein", icon: "fas fa-code", keywords: "max bernstein compilers", meta: "Compilers & languages" }
