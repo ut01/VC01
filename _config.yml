@@ -1,6 +1,6 @@
 url: "https://ut01.github.io"
-title: "ut01: Quick Navigation for UT Austin Students"
-description: "A comprehensive navigation hub for UT Austin students, providing quick access to essential university resources, portals, and services."
+title: "vc01: Global Venture & Technology Monitor"
+description: "Terminal-style dashboard for venture capital, technology trends, and startup ecosystems. Curated links to VC funds, investors, AI research, tech blogs, and thought leaders."
 
 # Build settings
 plugins:
@@ -12,9 +12,9 @@ sass:
 
 # SEO-related settings
 lang: en
-author: ut01
+author: vc01
 twitter:
-  username: ut01
+  username: vc01
   card: summary_large_image
 
 # Exclude files from processing
