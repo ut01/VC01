@@ -47,10 +47,10 @@
       - { url: "https://x.company/", title: "X (Moonshots)", icon: "fas fa-flask", keywords: "x company google moonshot alphabet", meta: "Alphabet's moonshot factory" }
       - { url: "https://huggingface.co/", title: "Hugging Face", icon: "fas fa-smile", keywords: "huggingface ai models open source", meta: "Open-source AI model hub & community" }
       - { url: "https://www.nvidia.com/en-us/ai/", title: "NVIDIA AI", icon: "fas fa-microchip", keywords: "nvidia ai gpu computing", meta: "GPU-accelerated computing & AI research" }
-      - { url: "https://www.amd.com/", title: "AMD", icon: "fas fa-microchip", keywords: "amd gpu mi300", meta: "[AMD] Focus: MI300 Series Trend: +1.1%" }
+      - { url: "https://www.amd.com/", title: "AMD", icon: "fas fa-microchip", keywords: "amd gpu mi300", meta: "AMD GPU computing & MI300 series" }
       - { url: "https://www.apple.com/apple-intelligence/", title: "Apple AI", icon: "fab fa-apple", keywords: "apple ai machine learning intelligence", meta: "Apple Intelligence & AI" }
       - { url: "https://www.microsoft.com/en-us/research/", title: "MS Research", icon: "fab fa-microsoft", keywords: "microsoft research ai", meta: "Microsoft Research global divisions" }
-      - { url: "https://www.openresearchlab.org/", title: "OpenResearch", icon: "fas fa-flask", keywords: "openresearch ubi research", meta: "[O] Focus: UBI Research" }
+      - { url: "https://www.openresearchlab.org/", title: "OpenResearch", icon: "fas fa-flask", keywords: "openresearch ubi research", meta: "UBI & social research initiatives" }
       - { url: "https://www.langchain.com/", title: "LangChain", icon: "fas fa-link", keywords: "langchain llm framework", meta: "Framework for building LLM applications" }
       - { url: "https://bair.berkeley.edu/", title: "BAIR", icon: "fas fa-graduation-cap", keywords: "berkeley ai research lab", meta: "Berkeley AI Research Lab" }
       - { url: "https://engineering.atspotify.com/", title: "Spotify", icon: "fab fa-spotify", keywords: "spotify engineering music streaming", meta: "Music streaming engineering at scale" }
