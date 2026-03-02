@@ -44,6 +44,7 @@
       - { url: "https://openai.com/news/", title: "OpenAI", icon: "fas fa-robot", keywords: "openai chatgpt gpt ai", meta: "ChatGPT & GPT research" }
       - { url: "https://x.ai/blog", title: "xAI", icon: "fas fa-rocket", keywords: "xai grok elon musk ai", meta: "Grok AI by Elon Musk" }
       - { url: "https://ai.google/", title: "Google AI", icon: "fab fa-google", keywords: "google ai deepmind research", meta: "Official Google AI & DeepMind research" }
+      - { url: "https://x.company/", title: "X (Moonshots)", icon: "fas fa-flask", keywords: "x company google moonshot alphabet", meta: "Alphabet's moonshot factory" }
       - { url: "https://huggingface.co/", title: "Hugging Face", icon: "fas fa-smile", keywords: "huggingface ai models open source", meta: "Open-source AI model hub & community" }
       - { url: "https://www.nvidia.com/en-us/ai/", title: "NVIDIA AI", icon: "fas fa-microchip", keywords: "nvidia ai gpu computing", meta: "GPU-accelerated computing & AI research" }
       - { url: "https://www.amd.com/", title: "AMD", icon: "fas fa-microchip", keywords: "amd gpu mi300", meta: "[AMD] Focus: MI300 Series Trend: +1.1%" }
