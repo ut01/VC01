@@ -39,6 +39,8 @@
       - { url: "https://tomtunguz.com/", title: "Tomasz Tunguz", icon: "fas fa-database", keywords: "tomasz tunguz theory ventures saas", meta: "Theory Ventures founder, SaaS/Data expert" }
       - { url: "https://www.saastr.com/", title: "Jason Lemkin", icon: "fas fa-cloud", keywords: "jason lemkin saastr saas", meta: "SaaStr founder, SaaS industry specialist" }
       - { url: "https://andrewchen.com/", title: "Andrew Chen", icon: "fas fa-users", keywords: "andrew chen a16z growth", meta: "a16z partner, consumer/growth expert" }
+      - { url: "https://x.com/pmarca", title: "Marc Andreessen", icon: "fab fa-x-twitter", keywords: "marc andreessen a16z netscape", meta: "a16z co-founder, Netscape creator" }
+      - { url: "https://x.com/bhorowitz", title: "Ben Horowitz", icon: "fab fa-x-twitter", keywords: "ben horowitz a16z", meta: "a16z co-founder, author" }
       - { url: "https://avc.com/", title: "Fred Wilson", icon: "fas fa-pen", keywords: "fred wilson usv blog", meta: "USV co-founder, veteran tech investor" }
       - { url: "https://feld.com/", title: "Brad Feld", icon: "fas fa-handshake", keywords: "brad feld foundry group", meta: "Foundry Group co-founder, VC leader" }
       - { url: "https://hunterwalk.com/", title: "Hunter Walk", icon: "fas fa-seedling", keywords: "hunter walk homebrew seed", meta: "Homebrew co-founder, seed-stage specialist" }
