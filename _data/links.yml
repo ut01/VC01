@@ -30,6 +30,9 @@
       - { url: "https://x.com/elonmusk", title: "Elon Musk", icon: "fab fa-x-twitter", keywords: "elon musk tesla spacex x", meta: "Tesla, SpaceX, X CEO" }
       - { url: "https://x.com/peterthiel", title: "Peter Thiel", icon: "fab fa-x-twitter", keywords: "peter thiel founders fund paypal", meta: "Founders Fund, PayPal co-founder" }
       - { url: "https://www.acquired.fm/", title: "Acquired Podcast", icon: "fas fa-podcast", keywords: "acquired podcast business history", meta: "Business history podcast" }
+      - { url: "https://lexfridman.com/podcast/", title: "Lex Fridman Podcast", icon: "fas fa-podcast", keywords: "lex fridman podcast ai tech deep", meta: "技术深度 - AI & tech deep conversations" }
+      - { url: "https://www.allinpodcast.co/", title: "All-In Podcast", icon: "fas fa-podcast", keywords: "all-in podcast investing tech", meta: "投资视角 - Tech & investing insights" }
+      - { url: "https://www.latent.space/podcast", title: "Latent Space", icon: "fas fa-podcast", keywords: "latent space ai engineering", meta: "工程实践 - AI engineering practice" }
       - { url: "https://www.jmail.world/", title: "J-Mail", icon: "fas fa-envelope", keywords: "jmail epstein emails congress", meta: "Jeffrey Epstein emails released by Congress" }
       - { url: "https://www.ben-evans.com/", title: "Benedict Evans", icon: "fas fa-chart-line", keywords: "benedict evans tech analyst", meta: "Technology analyst & trend forecaster" }
       - { url: "http://abovethecrowd.com/", title: "Bill Gurley", icon: "fas fa-star", keywords: "bill gurley benchmark", meta: "Benchmark partner, legendary tech investor" }
